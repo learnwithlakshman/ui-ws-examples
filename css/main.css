@@ -1,0 +1,17 @@
+.page-heading {
+    background-color: blueviolet;
+     padding: 5px;
+     color:white;
+ }
+
+ #box{
+     width: 200px;
+     height: 200px;
+     background-color: green;
+ }
+
+ img{
+     width: 200px;
+     height: 200;
+    border: 1px solid blue;
+ }

@@ -1,0 +1,5 @@
+https://www.w3schools.com/html/
+
+inline
+internal
+external (.css)
